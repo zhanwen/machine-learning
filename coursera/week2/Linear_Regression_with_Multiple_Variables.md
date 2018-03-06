@@ -13,7 +13,7 @@ anwser: 0.31
 2. Rather than use the current value of α, it'd be more promising to try a larger value of α (say α=1.0).
 3. Rather than use the current value of α, it'd be more promising to try a smaller value of α (say α=0.1).
 
-##### answers: 3
+answers: 3
 
 ######三、Suppose you have m=14 training examples with n=3 features (excluding the additional all-ones feature for the intercept term, which you should add). The normal equation is θ=(XTX)−1XTy. For the given values of m and n, what are the dimensions of θ, X, and y in this equation?
 1. X is 14×3, y is 14×1, θ is 3×1
@@ -21,7 +21,7 @@ anwser: 0.31
 3. X is 14×3, y is 14×1, θ is 3×3
 4. X is 14×4, y is 14×1, θ is 4×1
 
-##### answers: 4
+answers: 4
 
 ######四、Suppose you have a dataset with m=50 examples and n=15 features for each example. You want to use multivariate linear regression to fit the parameters θ to our data. Should you prefer gradient descent or the normal equation?
 1. The normal equation, since gradient descent might be unable to find the optimal θ.
@@ -29,7 +29,7 @@ anwser: 0.31
 3. Gradient descent, since (X‘X)−1 will be very slow to compute in the normal equation.
 4. The normal equation, since it provides an efficient way to directly find the solution.
 
-##### answers: 4
+answers: 4
 
 ######五、Which of the following are reasons for using feature scaling?
 1. It is necessary to prevent gradient descent from getting stuck in local optima.
@@ -37,4 +37,4 @@ anwser: 0.31
 3. It prevents the matrix XTX (used in the normal equation) from being non-invertable (singular/degenerate).
 4. It speeds up solving for θ using the normal equation.
 
-##### answer: 2
+answer: 2
