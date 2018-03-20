@@ -1,0 +1,5 @@
+![](../images/support_vector_machines1.png)
+![](../images/support_vector_machines1_1.png)
+![](../images/support_vector_machines3.png)
+![](../images/support_vector_machines4.png)
+![](../images/support_vector_machines5.png)
