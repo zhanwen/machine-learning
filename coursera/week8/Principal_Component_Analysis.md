@@ -1,0 +1,7 @@
+![](../images/Principal_Component_Analysis1.png)
+![](../images/Principal_Component_Analysis1_1.png)
+![](../images/Principal_Component_Analysis1_2.png)
+![](../images/Principal_Component_Analysis2.png)
+![](../images/Principal_Component_Analysis3.png)
+![](../images/Principal_Component_Analysis4.png)
+![](../images/Principal_Component_Analysis5.png)
