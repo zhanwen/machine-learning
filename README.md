@@ -1,2 +1,13 @@
 # machine-learning
-机器学习和深度学习
+### 吴恩达机器学习课程笔记
+* [第一周](https://github.com/zhanwen/machine-learning/tree/master/coursera/week1)
+* [第二周](https://github.com/zhanwen/machine-learning/tree/master/coursera/week2)
+* [第三周](https://github.com/zhanwen/machine-learning/tree/master/coursera/week3)
+* [第四周](https://github.com/zhanwen/machine-learning/tree/master/coursera/week4)
+* [第五周](https://github.com/zhanwen/machine-learning/tree/master/coursera/week5)
+* [第六周](https://github.com/zhanwen/machine-learning/tree/master/coursera/week6)
+* [第七周](https://github.com/zhanwen/machine-learning/tree/master/coursera/week7)
+* [第八周](https://github.com/zhanwen/machine-learning/tree/master/coursera/week8)
+* [第九周](https://github.com/zhanwen/machine-learning/tree/master/coursera/week9)
+* [第十周](https://github.com/zhanwen/machine-learning/tree/master/coursera/week10)
+* [第十一周](https://github.com/zhanwen/machine-learning/tree/master/coursera/week11)
